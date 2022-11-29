@@ -1,0 +1,25 @@
+{
+  "name": "mock-api-templete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pradeep2888/mock-api-templete.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pradeep2888/mock-api-templete/issues"
+  },
+  "homepage": "https://github.com/Pradeep2888/mock-api-templete#readme",
+  "dependencies": {
+    "json": "^11.0.0",
+    "json-server": "^0.17.1",
+    "server": "^1.0.37"
+  }
+}
